@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.0.2"
+  }
+}
